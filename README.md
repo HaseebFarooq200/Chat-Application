@@ -1,2 +1,1 @@
-<img align="right" alt="coding" width="400" src="https://www.hubspot.com/hubfs/Smiling%20Leo%20Perfect%20GIF.gif"> </img>
-This is a REad Me file
+![Smiling Leo Perfect GIF](https://user-images.githubusercontent.com/115168071/206751176-76fdc7b6-b604-4a62-a937-f14b4cef644d.gif)
